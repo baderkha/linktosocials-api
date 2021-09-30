@@ -1,0 +1,19 @@
+{
+  "name": "linktosocials-api",
+  "version": "1.0.0",
+  "description": "link to socials api , by ahmad baderkhan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baderkha/linktosocials-api.git"
+  },
+  "author": "ahmad baderkhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baderkha/linktosocials-api/issues"
+  },
+  "homepage": "https://github.com/baderkha/linktosocials-api#readme"
+}
